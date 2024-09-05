@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🔭 I'm currently working on: Studying biotechnology and business management in Taiwan<br>👯 I'm looking to collaborate on: Open-source projects related to financial market analysis<br>🤝 I'm looking for help with: Improving my skills in financial technology<br>🌱 I'm currently learning: Go programming language<br>💬 Ask me about: Python, JavaScript/TypeScript, or the intersection of biotech and business<br>⚡ Fun fact: I can speak Mandarin, Japanese, English, and Taiwanese, so feel free to contact me in any of these languages!
 
